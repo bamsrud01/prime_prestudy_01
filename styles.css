@@ -7,4 +7,6 @@ header {
     color: darkblue;
     font-family: Garamond;
     font-weight: bold;
+    text-align: center;
+    margin-top: 35px;
 }
