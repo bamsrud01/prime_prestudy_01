@@ -1,0 +1,10 @@
+body {
+    background-color: skyblue;
+}
+
+header {
+    font-size: 100px;
+    color: darkblue;
+    font-family: Garamond;
+    font-weight: bold;
+}
